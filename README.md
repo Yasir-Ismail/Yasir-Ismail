@@ -32,7 +32,7 @@ Become strong in Python and enter machine learning
 
 Build reliable projects for freelancing
 
-Improve consistency in coding content
+Improve consistency in coding 
 
 Create responsive and polished app designs
 
