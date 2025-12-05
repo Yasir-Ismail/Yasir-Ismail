@@ -1,10 +1,10 @@
-👋 Hi, I'm Yasir Ismail
+👋 **Hi, I'm Yasir Ismail****
 
 I'm a BS Artificial Intelligence student who enjoys building practical projects and improving my skills across web development, Java, Python, mobile apps and networking. I like learning through hands-on work and keeping my approach simple and clear.
 
 
 
-💻 Developer Profile
+💻 **Developer Profile**
 
 Front-end development with HTML, CSS and JavaScript
 
@@ -18,7 +18,7 @@ Basic networking skills including IPv6, subnetting and device communication
 
 Comfortable explaining technical concepts in a beginner-friendly way
 
-🛠 What I’m building and exploring
+🛠 **What I’m building and exploring**
 
 Clean, modern web and mobile app interfaces
 
@@ -26,7 +26,7 @@ Practical Java and Python projects
 
 Smooth workflows for Flutter apps on real devices
 
-🎯 Current Goals
+🎯 **Current Goals**
 
 Become strong in Python and enter machine learning
 
