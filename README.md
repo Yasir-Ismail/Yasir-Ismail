@@ -1,41 +1,39 @@
-# Hi, I'm Yasir Ismail!
+👋 Hi, I'm Yasir Ismail
 
-**BS Artificial Intelligence Student| Java & C++ Enthusiast | Learning by Building**
+I'm a BS Artificial Intelligence student who enjoys building practical projects and improving my skills across web development, Java, Python, mobile apps and networking. I like learning through hands-on work and keeping my approach simple and clear.
 
-Welcome to my GitHub profile! I'm a student of Artificial Intelligence with a deep interest in coding, logic-building, and problem-solving. I enjoy learning through practical projects and sharing my progress along the way.
 
----
 
-## 🚀 What I'm Learning
+💻 Developer Profile
 
-- Object-Oriented Programming in Java
-- C++ fundamentals and project building
-- Git & GitHub for version control
-- Building small practical applications like a console-based ATM
+Front-end development with HTML, CSS and JavaScript
 
----
+Java programming (arrays, OOP, abstraction, inheritance, polymorphism, exception handling, file handling, Swing GUI)
 
-## 🛠️ Projects
+Python as my main track toward machine learning and future freelancing
 
-- **ATM Machine in Java** – A basic simulation of real ATM functionality  
-  *(Includes PIN verification, balance checking, and withdrawal options)*  
-- More mini-projects coming soon!
+Flutter for modern, functional mobile UI
 
----
+Basic networking skills including IPv6, subnetting and device communication
 
-## 🌱 Goals
+Comfortable explaining technical concepts in a beginner-friendly way
 
-- Master core programming concepts in Java & C++
-- Work on meaningful AI-related projects during my degree
-- Learn Android development and web-based technologies in the future
-- Grow a professional GitHub portfolio and collaborate on open-source
+🛠 What I’m building and exploring
 
----
+Clean, modern web and mobile app interfaces
 
-## 📫 Let's Connect
+Practical Java and Python projects
 
-If you're also a student or developer, feel free to explore my work. I’m always open to feedback, collaboration, or discussion!
+Smooth workflows for Flutter apps on real devices
 
----
+🎯 Current Goals
 
-**“Learning never exhausts the mind. It only builds it.”**
+Become strong in Python and enter machine learning
+
+Build reliable projects for freelancing
+
+Improve consistency in coding content
+
+Create responsive and polished app designs
+
+Keep learning new tools while strengthening core development skills
