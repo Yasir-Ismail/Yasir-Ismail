@@ -1,4 +1,4 @@
-👋 **Hi, I'm Yasir Ismail****
+👋 **Hi, I'm Yasir Ismail**
 
 I'm a BS Artificial Intelligence student who enjoys building practical projects and improving my skills across web development, Java, Python, mobile apps and networking. I like learning through hands-on work and keeping my approach simple and clear.
 
