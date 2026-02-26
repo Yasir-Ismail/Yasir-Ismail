@@ -1,5 +1,53 @@
-# 💫 About Me:
-I’m currently working on:<br>Web Development (building modern and responsive projects)<br>I’m looking to collaborate on:<br>Frontend or full-stack web projects<br>Beginner-friendly Machine Learning projects<br>Open-source projects to gain real-world experience<br>I’m looking for help with:<br>Machine Learning concepts and real-world implementation<br>I’m currently learning:<br>Machine Learning<br>Ask me about:<br>My journey from Web Development to AI/ML<br>Building beginner projects and GitHub portfolio<br>Learning programming step by step<br>Fun fact:<br>I focus on building real skills and projects instead of just collecting tutorials.
+## 👋 Hi, I’m Yasir Ismail
+
+I’m a **AI undergraduate** with a strong foundation in **web development** and a growing focus on **Artificial Intelligence and Machine Learning**.  
+My goal is to build **practical, real-world systems** — not just complete courses or collect certificates.
+
+## 🎓 Academic Background
+- Undergraduate student with a focus on **Artificial Intelligence**
+- Solid understanding of:
+  - Programming fundamentals
+  - Object-Oriented Programming (Java)
+  - Databases and SQL
+  - Problem-solving and logical thinking
+- Actively translating academic concepts into **hands-on projects**
+
+## 💻 Developer Journey
+I started with **web development** to understand how real products are designed, built, and deployed.  
+This experience helped me develop:
+- Strong frontend fundamentals
+- A clear understanding of user-focused development
+- Confidence in building complete, functional projects
+
+I’m now transitioning toward **AI / Machine Learning**, with a strong emphasis on **implementation over theory**.
+
+
+## 🚀 What I’m Currently Working On
+- Modern, responsive **web development projects**
+- Learning **Python for AI and Machine Learning**
+- Building beginner-to-intermediate ML projects to understand real-world use cases
+- Improving my GitHub through **consistent, meaningful repositories**
+
+## 🧠 Areas of Interest
+- Web Development (Frontend & Full Stack)
+- Artificial Intelligence & Machine Learning
+- Open-source contribution
+- Project-based learning
+
+## 🤝 Open to Collaboration On
+- Frontend or full-stack web projects  
+- Beginner-friendly AI / ML projects  
+- Open-source projects that provide real-world exposure  
+
+## 📌 My Approach
+I don’t believe in memorizing syntax or blindly following tutorials.  
+I focus on:
+- Understanding **why things work**
+- Writing code that actually solves problems
+- Learning step-by-step through real projects
+
+## 📫 Let’s Connect
+If you’re working on something meaningful or want to collaborate on real projects, feel free to reach out.
 
 
 ## 🌐 Socials:
