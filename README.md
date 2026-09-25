@@ -63,10 +63,5 @@ If you’re working on something meaningful or want to collaborate on real proje
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yasir-Ismail&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Yasir-Ismail&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
